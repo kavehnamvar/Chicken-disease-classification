@@ -51,3 +51,114 @@ Source-Age: 0
 [2025-02-02 18:47:43,439: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2025-02-06 00:49:51,203: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 00:49:51,207: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 00:49:51,208: INFO: common: created directory at: artifacts]
+[2025-02-06 00:52:37,426: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 00:52:37,429: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 00:52:37,431: INFO: common: created directory at: artifacts]
+[2025-02-06 00:52:37,432: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:02:33,072: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:02:33,075: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:02:33,076: INFO: common: created directory at: artifacts]
+[2025-02-06 01:02:33,076: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:12:06,885: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:12:06,889: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:12:06,890: INFO: common: created directory at: artifacts]
+[2025-02-06 01:12:06,892: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:23:14,862: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:23:14,864: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:23:14,865: INFO: common: created directory at: artifacts]
+[2025-02-06 01:23:14,865: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:24:55,527: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:24:55,531: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:24:55,532: INFO: common: created directory at: artifacts]
+[2025-02-06 01:24:55,533: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:27:18,825: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:27:18,828: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:27:18,830: INFO: common: created directory at: artifacts]
+[2025-02-06 01:27:18,830: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:28:58,572: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:28:58,574: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:28:58,575: INFO: common: created directory at: artifacts]
+[2025-02-06 01:28:58,576: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:36:35,330: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:36:35,333: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:36:35,335: INFO: common: created directory at: artifacts]
+[2025-02-06 01:36:35,335: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:37:44,133: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:37:44,135: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:37:44,136: INFO: common: created directory at: artifacts]
+[2025-02-06 01:37:44,137: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:39:28,076: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:39:28,077: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:39:28,078: INFO: common: created directory at: artifacts]
+[2025-02-06 01:39:28,079: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:47:51,125: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:47:51,127: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:47:51,127: INFO: common: created directory at: artifacts]
+[2025-02-06 01:47:51,128: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:49:52,831: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:49:52,834: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:49:52,834: INFO: common: created directory at: artifacts]
+[2025-02-06 01:49:52,835: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:49:53,126: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-06 01:51:34,301: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:51:34,303: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:51:34,304: INFO: common: created directory at: artifacts]
+[2025-02-06 01:51:34,304: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:51:34,609: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-06 01:53:02,570: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 01:53:02,572: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 01:53:02,574: INFO: common: created directory at: artifacts]
+[2025-02-06 01:53:02,574: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 01:53:02,869: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-06 01:53:02,934: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2025-02-06 01:53:02,935: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2025-02-06 22:44:05,364: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-02-06 22:44:05,366: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 22:44:05,366: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 22:44:05,367: INFO: common: created directory at: artifacts]
+[2025-02-06 22:44:05,367: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-02-06 22:44:06,346: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 11795892
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c243cfb159a01fabb8790fb65552cace3ccb8831501457a64f1dfd882b16ce46"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1EB2:2829D3:3C101:456F5:67A58185
+Accept-Ranges: bytes
+Date: Fri, 07 Feb 2025 03:44:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-yul1970057-YUL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1738899846.769161,VS0,VE299
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 56185999270e948bd4290f51dca6d9bb23d54150
+Expires: Fri, 07 Feb 2025 03:49:06 GMT
+Source-Age: 0
+
+]
+[2025-02-06 22:44:06,487: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-02-06 22:44:06,487: INFO: main: ***************]
+[2025-02-06 22:44:06,487: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2025-02-06 22:44:06,488: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2025-02-06 22:44:06,488: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-02-06 22:44:06,488: INFO: common: created directory at: artifacts]
+[2025-02-06 22:44:06,488: INFO: common: created directory at: artifacts/prepare_base_model]
+[2025-02-06 22:44:06,774: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2025-02-06 22:44:06,825: WARNING: optimizer: At this time, the v2.11+ optimizer `tf.keras.optimizers.SGD` runs slowly on M1/M2 Macs, please use the legacy Keras optimizer instead, located at `tf.keras.optimizers.legacy.SGD`.]
+[2025-02-06 22:44:06,826: WARNING: __init__: There is a known slowdown when using v2.11+ Keras optimizers on M1/M2 Macs. Falling back to the legacy Keras optimizer, i.e., `tf.keras.optimizers.legacy.SGD`.]
+[2025-02-06 22:44:06,873: INFO: main: >>>>>> Prepare base model completed <<<<<<
+
+x==========x]
