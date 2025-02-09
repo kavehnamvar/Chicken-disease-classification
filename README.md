@@ -16,7 +16,7 @@
 
 # How to run:
 
-## STeps:
+## Steps:
 
 Clone the repository:
 
@@ -26,4 +26,9 @@ git@github.com:kavehnamvar/Chicken-disease-classification.git
 
 ## STEP 01- Create a conda environment after opening the repository
 
-
+```
+conda create -n chicken_classification python=3.8 -y
+```
+```
+conda activate chicken_classification
+```
