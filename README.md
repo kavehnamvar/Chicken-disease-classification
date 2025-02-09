@@ -19,6 +19,7 @@
 ## STeps:
 
 Clone the repository:
+
 ``` git@github.com:kavehnamvar/Chicken-disease-classification.git ```
 
 ## STEP 01- Create a conda environment after opening the repository
