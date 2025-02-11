@@ -131,4 +131,22 @@ ECR_REPOSITORY_NAME = simple-app
 
 # AZURE-CICD-Deployment-with-Github-Actions
 
-Save pass:
+## Save pass:
+
+This is your AZURE pass.
+
+## Run from terminal:
+
+docker build -t chickenapp.azurecr.io/chicken:latest .
+
+docker login chickenapp.azurecr.io
+
+docker push chickenapp.azurecr.io/chicken:latest
+
+
+## Deployment Steps:
+
+Build the Docker image of the Source Code
+Push the Docker image to Container Registry
+Launch the Web App Server in Azure
+Pull the Docker image from the container registry to Web App server and run
